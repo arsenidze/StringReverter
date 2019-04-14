@@ -28,5 +28,5 @@ make
 * https://github.com/java-native-access/jna/blob/master/www/GettingStarted.md - JNA Getting Started
 * https://ru.intechcore.com/jna-for-access-to-native-com-dll-library/ - Using JNA to call .NET from java
 
-### How to combine JAR's
+#### How to combine JAR's
 * https://stackoverflow.com/questions/5080220/how-to-combine-two-jar-files/5080283#5080283 - How to combine two Jar files
